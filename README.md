@@ -15,8 +15,8 @@ Práticando minhas habilidades de desenvolvimento web usando desafios da comunid
 <a href="https://discord.com/invite/QevDJqCzaY" target="_blank"><img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/iuricode/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://github.com/iuricode" target="_blank"><img src="https://img.shields.io/badge/-Github-%5865f2?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
+<hr/>
 
 ### Desafios
 
-#### :heavy_check_mark: Desafio 01 :arrow_right: [Blog]: 
+#### :heavy_check_mark: Desafio 01 :arrow_right: [Blog](https://github.com/rnevesphp/01-desafio-Blog)
