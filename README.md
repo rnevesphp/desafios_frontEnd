@@ -1,2 +1,3 @@
-# desafios_frontEnd
-Refazendo todos os desafios da comunidade Codelândia do Discord
+# DESAFIOS FRONT-END
+
+Práticando minhas habilidades de desenvolvimento web usando desafios da comunidade Codelândia do Discord. 
