@@ -7,6 +7,7 @@ Práticando minhas habilidades de desenvolvimento web usando desafios da comunid
 <div style="display: inline_block">
     <img align="center" alt="Romeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img align="center" alt="Romeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+    <img align="center" alt="Romeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 </div>
 <hr/>
 
@@ -20,4 +21,4 @@ Práticando minhas habilidades de desenvolvimento web usando desafios da comunid
 ### Desafios
 
 #### :heavy_check_mark: Desafio 01 :arrow_right: [Blog](https://github.com/rnevesphp/01-desafio-Blog)
-#### :heavy_check_mark: Desafio 04 :arrow_right: [Interface de Login]()
+#### :heavy_check_mark: Desafio 04 :arrow_right: [Interface de Login](https://github.com/rnevesphp/04-desafio-Interface-de-Login)
