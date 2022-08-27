@@ -21,4 +21,5 @@ Práticando minhas habilidades de desenvolvimento web usando desafios da comunid
 ### Desafios
 
 #### :heavy_check_mark: Desafio 01 :arrow_right: [Blog](https://github.com/rnevesphp/01-desafio-Blog)
+#### :heavy_check_mark: Desafio 02 :arrow_right: [Loja de Jordans](https://github.com/rnevesphp/02-desafio-Jordan-sStore)
 #### :heavy_check_mark: Desafio 04 :arrow_right: [Interface de Login](https://github.com/rnevesphp/04-desafio-Interface-de-Login)
